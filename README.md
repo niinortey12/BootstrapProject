@@ -1,3 +1,3 @@
-# niinortey12.github.io
+# Bootstrap Project
 
 [Click here](https://niinortey12.github.io/)
